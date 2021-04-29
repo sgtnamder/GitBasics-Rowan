@@ -6,3 +6,4 @@ This is my third feature
 Timur's Features:
 This is the first feature.
 This is the second feature.
+This is the third feature.
